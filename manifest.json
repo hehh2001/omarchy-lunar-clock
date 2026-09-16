@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "id": "hehh2001.lunar-clock",
   "name": "Chinese Lunar Clock",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "author": "hehh2001",
   "description": "Theme-aware Chinese lunar calendar with leap months and traditional festivals",
   "kinds": [

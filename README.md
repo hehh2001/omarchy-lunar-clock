@@ -13,7 +13,7 @@ A native, theme-aware Chinese lunar calendar for **Omarchy Quattro (4.x)**. Deri
 
 ## Install
 
-Requires Omarchy Quattro with the native Quickshell shell and `omarchy plugin` CLI. Tested with 4.0.0.r1966 and 4.0.0.r2038. Older Waybar-based releases are unsupported.
+Requires Omarchy Quattro with the native Quickshell shell and `omarchy plugin` CLI. Tested with 4.0.0.r1966, 4.0.0.r2038 and 4.0.0.r2101. Older Waybar-based releases are unsupported.
 
 ```sh
 omarchy plugin add https://github.com/hehh2001/omarchy-lunar-clock --enable
